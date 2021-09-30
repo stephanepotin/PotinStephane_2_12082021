@@ -201,7 +201,7 @@ button
     color: black;
     text-decoration: none;
 }
-.info
+#info
 {
     display: flex;
     align-items: center;
@@ -210,7 +210,7 @@ button
 {
     color: #0065FC;
 }
-.logement
+#logement
 {
     display: flex;
     justify-content: center;
@@ -631,9 +631,7 @@ footer
     .boiteact14, .boiteact56, #boiteact3, #boiteact2
     {
         margin-bottom: 20px;
-        margin-top: 20px;
-        width: none;
-    }
+        margin-top: 20px;    }
     #blocpopulaire
     {
         height: auto;
